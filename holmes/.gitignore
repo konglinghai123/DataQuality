@@ -1,0 +1,12 @@
+target
+log/*
+*.log
+attach/*
+.idea
+.git
+.arcconfig
+*.jar
+*.class
+*.iws
+*.iml
+*.ipr
